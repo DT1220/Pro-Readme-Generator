@@ -32,9 +32,27 @@ const questions = [{
 },
 {
     type: "input",
+    name: "installing",
+    message: "What command do you want when installing?",
+    default: "npm install",
+},
+
+{
+    type: "input",
     name: "testing",
     message: "What command do you want to run a test?",
     default: "npm test",
+},
+{
+    type: "input",
+    name: "usage",
+    message: "Provide the user the purpose of this repository",
+},
+{
+    type: "input",
+    name: "information",
+    message: "Can you provide your github username?",
+
 },
 ];
 
