@@ -1,0 +1,19 @@
+{
+  "name": "pro-readme-generator",
+  "version": "1.0.0",
+  "description": "Command Line Interface to create a README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DT1220/Pro-Readme-Generator.git"
+  },
+  "author": "Daniel Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DT1220/Pro-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/DT1220/Pro-Readme-Generator#readme"
+}
