@@ -54,6 +54,12 @@ const questions = [{
     message: "Can you provide your github username?",
 
 },
+{
+    type: "input",
+    name: "github link",
+    message: "Can you provide the link to your github?",
+},
+
 ];
 
 // TODO: Create a function to write README file
